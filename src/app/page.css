@@ -1,0 +1,30 @@
+
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    text-align: center;
+  }
+  
+  .centered-image {
+    margin-top: 20px;
+  }
+  
+  .cat-image {
+    border: 2px solid #000000;
+    padding: 10px; 
+    display: inline-block;
+  }
+
+  .txt-container {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+    height: 100vh; 
+    text-align: left;
+    text-size-adjust: 20%;
+  }
