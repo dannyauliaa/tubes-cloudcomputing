@@ -5,6 +5,8 @@
 
 
 Kelompok 9:
-2. Fabiano Abbey Karo Sekali
-3. Danny Aulia
-4. Ahda Akmalul Ilmi
+
+
+1. Fabiano Abbey Karo Sekali
+2. Danny Aulia
+3. Ahda Akmalul Ilmi
